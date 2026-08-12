@@ -13,7 +13,7 @@ import re
 from pathlib import Path
 from typing import Any
 
-from template import (
+from solution.solution import (
     BenchmarkRunner,
     EvalResult,
     FailureAnalyzer,
